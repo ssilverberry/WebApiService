@@ -1,0 +1,14 @@
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\bin\Release\netcoreapp2.1\WebApp.deps.json
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\bin\Release\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\bin\Release\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\bin\Release\netcoreapp2.1\WebApp.dll
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\bin\Release\netcoreapp2.1\WebApp.pdb
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.dll
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.pdb
+C:\Users\PHORIACHYI\source\repos\WebApp\WebApp\obj\Release\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
